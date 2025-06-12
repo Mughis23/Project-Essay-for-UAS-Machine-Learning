@@ -1,5 +1,7 @@
 streamlit
-pandas
 scikit-learn
+pandas
 joblib
-numpy
+matplotlib
+graphviz         
+numpy 
